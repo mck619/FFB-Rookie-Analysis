@@ -1,82 +1,80 @@
-
-,,,,,,,Misc,Misc,,Approx Val,Approx Val,,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,,,,,
 Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Tkl,Int,Sk,College/Univ,
 1,1,STL,Sam Bradford,QB,22,2014,0,0,3,26,26,49,1032,1760,11065,59,38,97,247,2,,,,2,,,Oklahoma,College Stats
-1,2,DET,Ndamukong Suh,DT,23,2014,3,4,5,60,60,78,,,,,,,,,,,,181,1,36.0,Nebraska,College Stats
-1,3,TAM,Gerald McCoy,DT,22,2014,1,3,3,38,38,64,,,,,,,,,,,,117,,27.0,Oklahoma,College Stats
+1,2,DET,Ndamukong Suh,DT,23,2014,3,4,5,60,60,78,,,,,,,,,,,,181,1,36,Nebraska,College Stats
+1,3,TAM,Gerald McCoy,DT,22,2014,1,3,3,38,38,64,,,,,,,,,,,,117,,27,Oklahoma,College Stats
 1,4,WAS,Trent Williams,T,22,2014,0,3,4,38,38,71,,,,,,,,,,,,8,,,Oklahoma,College Stats
 1,5,KAN,Eric Berry,DB,21,2014,1,3,3,29,29,54,,,,,,,,,,,,250,8,5.5,Tennessee,College Stats
 1,6,SEA,Russell Okung,T,22,2014,0,1,4,29,29,59,,,,,,,,,,,,2,,,Oklahoma St.,College Stats
-1,7,CLE,Joe Haden,DB,21,2014,0,2,4,35,35,72,,,,,,,,,,,,244,16,2.0,Florida,College Stats
+1,7,CLE,Joe Haden,DB,21,2014,0,2,4,35,35,72,,,,,,,,,,,,244,16,2,Florida,College Stats
 1,8,OAK,Rolando McClain,LB,21,2014,0,0,3,22,17,54,,,,,,,,,,,,242,3,7.5,Alabama,College Stats
 1,9,BUF,C.J. Spiller,RB,23,2014,0,1,2,32,32,70,,,,,,668,3321,12,158,1195,6,1,,,Clemson,College Stats
-1,10,JAX,Tyson Alualu,DT,23,2014,0,0,4,27,27,80,,,,,,,,,,,,131,,13.0,California,College Stats
+1,10,JAX,Tyson Alualu,DT,23,2014,0,0,4,27,27,80,,,,,,,,,,,,131,,13,California,College Stats
 1,11,SFO,Anthony Davis,T,20,2014,0,0,4,35,35,71,,,,,,,,,,,,2,,,Rutgers,College Stats
 1,12,SDG,Ryan Mathews,RB,23,2014,0,1,4,36,36,62,,,,,,923,4061,23,146,1110,1,3,,,Fresno St.,College Stats
-1,13,PHI,Brandon Graham,DE,22,2014,0,0,0,9,9,64,,,,,,,,,,,,99,,17.0,Michigan,College Stats
+1,13,PHI,Brandon Graham,DE,22,2014,0,0,0,9,9,64,,,,,,,,,,,,99,,17,Michigan,College Stats
 1,14,SEA,Earl Thomas,DB,21,2014,3,4,5,53,53,80,,,,,,,,,,,,341,16,,Texas,College Stats
-1,15,NYG,Jason Pierre-Paul,DE,21,2014,1,2,3,37,37,75,,,,,,,,,,,,205,2,42.0,South Florida,College Stats
-1,16,TEN,Derrick Morgan,DE,21,2014,0,0,3,22,22,66,,,,,,,,,,,,132,,23.0,Georgia Tech,College Stats
+1,15,NYG,Jason Pierre-Paul,DE,21,2014,1,2,3,37,37,75,,,,,,,,,,,,205,2,42,South Florida,College Stats
+1,16,TEN,Derrick Morgan,DE,21,2014,0,0,3,22,22,66,,,,,,,,,,,,132,,23,Georgia Tech,College Stats
 1,17,SFO,Mike Iupati,G,23,2014,1,3,5,47,47,75,,,,,,,,,,,,5,,,Idaho,
 1,18,PIT,Maurkice Pouncey,C,21,2014,2,4,3,52,52,62,,,,,,,,,1,0,0,3,,,Florida,College Stats
-1,19,ATL,Sean Weatherspoon,LB,22,2014,0,0,2,21,21,47,,,,,,,,,,,,216,2,8.0,Missouri,College Stats
+1,19,ATL,Sean Weatherspoon,LB,22,2014,0,0,2,21,21,47,,,,,,,,,,,,216,2,8,Missouri,College Stats
 1,20,HOU,Kareem Jackson,DB,22,2014,0,0,5,25,25,74,,,,,,,,,,,,241,10,,Alabama,College Stats
 1,21,CIN,Jermaine Gresham,TE,22,2014,0,2,5,22,22,74,,,,,,,,,280,2722,24,4,,,Oklahoma,College Stats
 1,22,DEN,Demaryius Thomas,WR,22,2014,0,3,3,46,46,69,0,1,0,0,0,3,6,0,351,5317,41,6,,,Georgia Tech,College Stats
 1,23,GNB,Bryan Bulaga,T,21,2014,0,0,3,22,22,52,,,,,,,,,,,,2,,,Iowa,
 1,24,DAL,Dez Bryant,WR,21,2014,1,2,4,48,48,75,,,,,,5,1,0,381,5424,56,5,,,Oklahoma St.,College Stats
 1,25,DEN,Tim Tebow,QB,23,2012,0,0,1,12,11,35,173,361,2422,17,9,197,989,12,,,,,,,Florida,College Stats
-1,26,ARI,Dan Williams,DT,23,2014,0,0,4,23,23,70,,,,,,,,,,,,113,1,2.0,Tennessee,College Stats
-1,27,NWE,Devin McCourty,DB,23,2014,0,1,3,33,33,77,,,,,,,,,,,,303,17,1.0,Rutgers,College Stats
+1,26,ARI,Dan Williams,DT,23,2014,0,0,4,23,23,70,,,,,,,,,,,,113,1,2,Tennessee,College Stats
+1,27,NWE,Devin McCourty,DB,23,2014,0,1,3,33,33,77,,,,,,,,,,,,303,17,1,Rutgers,College Stats
 1,28,MIA,Jared Odrick,DE,22,2014,0,0,2,20,20,65,,,,,,,,,,,,104,1,16.5,Penn St.,College Stats
-1,29,NYJ,Kyle Wilson,DB,23,2014,0,0,1,15,15,80,,,,,,,,,,,,139,3,1.0,Boise St.,College Stats
+1,29,NYJ,Kyle Wilson,DB,23,2014,0,0,1,15,15,80,,,,,,,,,,,,139,3,1,Boise St.,College Stats
 1,30,DET,Jahvid Best,RB,21,2012,0,0,1,13,13,22,0,1,0,0,0,255,945,6,85,774,3,1,,,California,College Stats
-1,31,IND,Jerry Hughes,DE,22,2014,0,0,1,17,4,72,,,,,,,,,,,,99,,25.0,TCU,College Stats
-1,32,NOR,Patrick Robinson,DB,23,2014,0,0,1,13,13,58,,,,,,,,,,,,150,9,1.0,Florida St.,College Stats
+1,31,IND,Jerry Hughes,DE,22,2014,0,0,1,17,4,72,,,,,,,,,,,,99,,25,TCU,College Stats
+1,32,NOR,Patrick Robinson,DB,23,2014,0,0,1,13,13,58,,,,,,,,,,,,150,9,1,Florida St.,College Stats
 ,,,,,,,Misc,Misc,,Approx Val,Approx Val,,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,,,,,
 Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Tkl,Int,Sk,College/Univ,
 2,33,STL,Rodger Saffold,T,22,2014,0,0,4,24,24,63,,,,,,,,,,,,4,,,Indiana,College Stats
-2,34,MIN,Chris Cook,DB,23,2014,0,0,2,8,8,40,,,,,,,,,,,,104,,1.0,Virginia,College Stats
-2,35,TAM,Brian Price,DT,21,2012,0,0,1,4,4,20,,,,,,,,,,,,22,,3.0,UCLA,College Stats
+2,34,MIN,Chris Cook,DB,23,2014,0,0,2,8,8,40,,,,,,,,,,,,104,,1,Virginia,College Stats
+2,35,TAM,Brian Price,DT,21,2012,0,0,1,4,4,20,,,,,,,,,,,,22,,3,UCLA,College Stats
 2,36,KAN,Dexter McCluster,WR,21,2014,0,1,0,19,17,72,,,,,,192,793,1,198,1697,6,5,,,Mississippi,College Stats
-2,37,PHI,Nate Allen,DB,22,2014,0,0,4,26,26,74,,,,,,,,,,,,258,10,4.0,South Florida,College Stats
+2,37,PHI,Nate Allen,DB,22,2014,0,0,4,26,26,74,,,,,,,,,,,,258,10,4,South Florida,College Stats
 2,38,CLE,T.J. Ward,DB,23,2014,0,2,4,30,24,69,,,,,,,,,,,,294,7,5.5,Oregon,College Stats
 2,39,TAM,Arrelious Benn,WR,22,2013,0,0,2,7,7,37,,,,,,15,44,0,59,862,5,5,,,Illinois,College Stats
-2,40,MIA,Koa Misi,LB,23,2014,0,0,5,26,26,68,,,,,,,,,,,,183,,12.0,Utah,College Stats
+2,40,MIA,Koa Misi,LB,23,2014,0,0,5,26,26,68,,,,,,,,,,,,183,,12,Utah,College Stats
 2,41,BUF,Torell Troup,DT,21,2012,0,0,0,3,3,21,,,,,,,,,,,,17,,,Central Florida,
 2,42,NWE,Rob Gronkowski,TE,21,2014,2,3,4,43,43,65,,,,,,1,2,1,308,4379,54,2,,,Arizona,College Stats
 2,43,BAL,Sergio Kindle,LB,23,2012,0,0,0,0,0,3,,,,,,,,,,,,1,,,Texas,
 2,44,OAK,Lamarr Houston,DE,23,2014,0,0,3,24,21,72,,,,,,,,,,,,179,1,17.5,Texas,College Stats
 2,45,DEN,Zane Beadles,G,23,2014,0,1,4,38,32,80,,,,,,,,,,,,2,,,Utah,
-2,46,NYG,Linval Joseph,DT,21,2014,0,0,3,28,20,69,,,,,,,,,,,,138,,12.0,East Carolina,College Stats
-2,47,ARI,Daryl Washington,LB,23,2014,0,1,2,36,36,59,,,,,,,,,,,,325,6,18.0,TCU,College Stats
+2,46,NYG,Linval Joseph,DT,21,2014,0,0,3,28,20,69,,,,,,,,,,,,138,,12,East Carolina,College Stats
+2,47,ARI,Daryl Washington,LB,23,2014,0,1,2,36,36,59,,,,,,,,,,,,325,6,18,TCU,College Stats
 2,48,CAR,Jimmy Clausen,QB,23,2014,0,0,1,1,0,17,183,347,1781,5,10,26,66,0,,,,1,,,Notre Dame,College Stats
-2,49,SFO,Taylor Mays,DB,22,2014,0,0,0,7,3,66,,,,,,,,,,,,59,,1.0,USC,College Stats
-2,50,KAN,Javier Arenas,DB,22,2014,0,0,0,8,7,69,,,,,,4,17,1,,,,130,2,5.0,Alabama,College Stats
+2,49,SFO,Taylor Mays,DB,22,2014,0,0,0,7,3,66,,,,,,,,,,,,59,,1,USC,College Stats
+2,50,KAN,Javier Arenas,DB,22,2014,0,0,0,8,7,69,,,,,,4,17,1,,,,130,2,5,Alabama,College Stats
 2,51,MIN,Toby Gerhart,RB,23,2014,0,0,0,16,13,75,,,,,,377,1631,7,97,786,3,8,,,Stanford,College Stats
 2,52,PIT,Jason Worilds,DE,22,2014,0,0,1,21,21,73,,,,,,,,,,,,129,1,25.5,Virginia Tech,College Stats
 2,53,NWE,Jermaine Cunningham,LB,22,2014,0,0,1,8,8,38,,,,,,,,,,,,43,,3.5,Florida,College Stats
 2,54,CIN,Carlos Dunlap,DE,21,2014,0,0,2,26,26,70,,,,,,,,,,,,147,1,35.5,Florida,College Stats
 2,55,DAL,Sean Lee,LB,24,2014,0,0,2,17,17,46,,,,,,,,,,,,193,11,,Penn St.,College Stats
-2,56,GNB,Mike Neal,DE,23,2014,0,0,1,10,10,52,,,,,,,,,,,,76,1,15.0,Purdue,College Stats
+2,56,GNB,Mike Neal,DE,23,2014,0,0,1,10,10,52,,,,,,,,,,,,76,1,15,Purdue,College Stats
 2,57,BAL,Terrence Cody,DT,22,2014,0,0,1,13,13,57,,,,,,,,,,,,46,,,Alabama,College Stats
 2,58,HOU,Ben Tate,RB,22,2014,0,0,0,14,12,51,,,,,,540,2363,14,67,347,0,2,,,Auburn,College Stats
 2,59,CLE,Montario Hardesty,RB,23,2013,0,0,0,4,4,24,,,,,,153,537,1,16,138,0,,,,Tennessee,College Stats
 2,60,SEA,Golden Tate,WR,22,2014,0,1,3,31,20,74,1,1,23,1,0,18,99,0,264,3526,19,4,,,Notre Dame,College Stats
-2,61,NYJ,Vlad Ducasse,T,22,2014,0,0,0,5,2,63,,,,,,,,,,,,,,,Massachusetts,
-2,62,NWE,Brandon Spikes,LB,23,2014,0,0,3,22,18,67,,,,,,,,,,,,206,2,2.0,Florida,College Stats
+2,61,NYJ,Vladimir Ducasse,T,22,2014,0,0,0,5,2,63,,,,,,,,,,,,,,,Massachusetts,
+2,62,NWE,Brandon Spikes,LB,23,2014,0,0,3,22,18,67,,,,,,,,,,,,206,2,2,Florida,College Stats
 2,63,IND,Pat Angerer,LB,23,2013,0,0,1,17,17,54,,,,,,,,,,,,184,2,2.5,Iowa,College Stats
 2,64,NOR,Charles Brown,T,23,2014,0,0,1,18,14,43,,,,,,,,,,,,1,,,USC,College Stats
 ,,,,,,,Misc,Misc,,Approx Val,Approx Val,,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,,,,,
 Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Tkl,Int,Sk,College/Univ,
 3,65,STL,Jerome Murphy,DB,23,2013,0,0,0,3,2,33,,,,,,,,,,,,22,1,,South Florida,College Stats
-3,66,DET,Amari Spievey,DB,22,2012,0,0,2,12,12,35,,,,,,,,,,,,113,5,1.0,Iowa,College Stats
+3,66,DET,Amari Spievey,DB,22,2012,0,0,2,12,12,35,,,,,,,,,,,,113,5,1,Iowa,College Stats
 3,67,TAM,Myron Lewis,DB,22,2012,0,0,0,2,2,29,,,,,,,,,,,,18,,,Vanderbilt,College Stats
 3,68,KAN,Jon Asamoah,G,22,2014,0,0,4,22,14,75,,,,,,,,,,,,4,,,Illinois,
 3,69,OAK,Jared Veldheer,T,23,2014,0,0,3,23,16,69,,,,,,,,,,,,8,,,Hillsdale,
 3,70,BAL,Ed Dickson,TE,23,2014,0,0,3,10,10,76,,,,,,,,,121,1293,8,6,,,Oregon,College Stats
 3,71,GNB,Morgan Burnett,DB,21,2014,0,0,3,21,21,64,,,,,,,,,,,,348,7,4.5,Georgia Tech,College Stats
-3,72,BUF,Alex Carrington,DE,23,2014,0,0,0,6,6,52,,,,,,,,,,,,34,,4.0,Arkansas St.,College Stats
+3,72,BUF,Alex Carrington,DE,23,2014,0,0,0,6,6,52,,,,,,,,,,,,34,,4,Arkansas St.,College Stats
 3,73,MIA,John Jerry,T,24,2014,0,0,4,26,18,73,,,,,,,,,,,,4,,,Mississippi,
 3,74,JAX,D'Anthony Smith,DT,22,2014,0,0,1,8,8,28,,,,,,,,,,,,7,,,Louisiana Tech,College Stats
 3,75,CHI,Major Wright,DB,22,2014,0,0,2,20,17,66,,,,,,,,,,,,224,9,,Florida,College Stats
@@ -87,15 +85,15 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 3,80,DEN,J.D. Walton,C,23,2014,0,0,3,24,16,52,,,,,,,,,,,,1,,,Baylor,College Stats
 3,81,HOU,Earl Mitchell,DT,23,2014,0,0,1,15,12,79,,,,,,,,,,,,103,,5.5,Arizona,College Stats
 3,82,PIT,Emmanuel Sanders,WR,23,2014,0,1,2,29,15,72,1,1,15,0,0,10,73,0,262,3434,20,5,,,SMU,College Stats
-3,83,ATL,Corey Peters,DT,22,2014,0,0,2,25,25,71,,,,,,,,,,,,101,1,11.0,Kentucky,College Stats
+3,83,ATL,Corey Peters,DT,22,2014,0,0,2,25,25,71,,,,,,,,,,,,101,1,11,Kentucky,College Stats
 3,84,CIN,Jordan Shipley,WR,24,2012,0,0,0,7,5,24,,,,,,,,,79,858,4,1,,,Texas,College Stats
 3,85,CLE,Colt McCoy,QB,23,2014,0,0,1,12,10,33,501,831,5458,25,23,115,423,2,2,8,0,2,,,Texas,College Stats
-3,86,PHI,Daniel Te'o-Nesheim,DE,23,2013,0,0,2,12,1,39,,,,,,,,,,,,37,,5.0,Washington,College Stats
+3,86,PHI,Daniel Te'o-Nesheim,DE,23,2013,0,0,2,12,1,39,,,,,,,,,,,,37,,5,Washington,College Stats
 3,87,DEN,Eric Decker,WR,23,2014,0,0,4,35,28,77,0,1,0,0,0,1,1,0,296,4032,38,7,,,Minnesota,College Stats
 3,88,ARI,Andre Roberts,WR,22,2014,0,0,2,17,14,78,,,,,,9,77,0,218,2576,13,9,,,Citadel,
 3,89,CAR,Armanti Edwards,WR,22,2013,0,0,0,1,1,41,2,3,11,0,0,3,12,0,6,131,0,,,,Appalachian St.,
 3,90,NWE,Taylor Price,WR,22,2013,0,0,0,1,1,6,,,,,,,,,5,80,0,,,,Ohio,College Stats
-3,91,SFO,NaVorro Bowman,LB,22,2014,3,2,3,49,49,64,,,,,,,,,,,,365,3,9.0,Penn St.,College Stats
+3,91,SFO,NaVorro Bowman,LB,22,2014,3,2,3,49,49,64,,,,,,,,,,,,365,3,9,Penn St.,College Stats
 3,92,CLE,Shawn Lauvao,G,22,2014,0,0,4,22,17,68,,,,,,,,,,,,1,,,Arizona St.,
 3,93,KAN,Tony Moeaki,TE,23,2014,0,0,2,10,9,38,,,,,,,,,88,1143,5,1,,,Iowa,College Stats
 3,94,IND,Kevin Thomas,DB,24,2011,0,0,0,2,2,9,,,,,,,,,,,,20,,,USC,
@@ -108,16 +106,16 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 4,99,STL,Mardy Gilyard,WR,23,2012,0,0,0,1,1,19,,,,,,,,,8,78,0,1,,,Cincinnati,College Stats
 4,100,MIN,Everson Griffen,DE,22,2014,0,0,1,15,15,75,,,,,,,,,,,,88,1,29.5,USC,College Stats
 4,101,TAM,Mike Williams,WR,23,2014,0,0,3,25,25,63,1,1,28,0,0,1,3,0,223,3089,26,10,,,Syracuse,College Stats
-4,102,HOU,Darryl Sharpton,LB,22,2014,0,0,0,10,9,47,,,,,,,,,,,,102,1,1.0,Miami (FL),College Stats
+4,102,HOU,Darryl Sharpton,LB,22,2014,0,0,0,10,9,47,,,,,,,,,,,,102,1,1,Miami (FL),College Stats
 4,103,WAS,Perry Riley,LB,22,2014,0,0,3,23,23,70,,,,,,,,,,,,237,1,9.5,LSU,College Stats
 4,104,TEN,Alterraun Verner,DB,21,2014,0,1,3,29,24,78,,,,,,,,,,,,283,13,,UCLA,College Stats
 4,105,PHI,Trevard Lindley,DB,24,2010,0,0,0,1,1,11,,,,,,,,,,,,18,1,,Kentucky,College Stats
 4,106,OAK,Bruce Campbell,T,22,2013,0,0,0,1,1,19,,,,,,,,,,,,,,,Maryland,College Stats
 4,107,BUF,Marcus Easley,WR,22,2014,0,0,0,0,0,29,,,,,,,,,2,13,0,29,,,Connecticut,
 4,108,OAK,Jacoby Ford,WR,23,2013,0,0,0,12,12,38,,,,,,19,201,2,57,848,3,7,,,Clemson,College Stats
-4,109,CHI,Corey Wootton,DE,23,2014,0,0,0,15,13,60,,,,,,,,,,,,65,,12.0,Northwestern,College Stats
+4,109,CHI,Corey Wootton,DE,23,2014,0,0,0,15,13,60,,,,,,,,,,,,65,,12,Northwestern,College Stats
 4,110,SDG,Darrell Stuckey,DB,23,2014,0,1,0,7,7,59,,,,,,,,,,,,39,,,Kansas,
-4,111,SEA,Walter Thurmond,DB,23,2014,0,0,0,5,5,36,,,,,,,,,,,,67,1,1.0,Oregon,College Stats
+4,111,SEA,Walter Thurmond,DB,23,2014,0,0,0,5,5,36,,,,,,,,,,,,67,1,1,Oregon,College Stats
 4,112,NYJ,Joe McKnight,RB,22,2014,0,0,0,7,6,41,,,,,,113,505,0,23,241,2,2,,,USC,College Stats
 4,113,NWE,Aaron Hernandez,TE,20,2012,0,0,2,22,22,38,,,,,,9,97,0,175,1956,18,,,,Florida,College Stats
 4,114,BAL,Dennis Pitta,TE,25,2014,0,0,0,12,12,50,,,,,,,,,138,1369,11,3,,,BYU,College Stats
@@ -126,11 +124,11 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 4,117,ATL,Joe Hawley,C,21,2014,0,0,1,15,15,57,,,,,,,,,,,,4,,,UNLV,College Stats
 4,118,HOU,Garrett Graham,TE,24,2014,0,0,2,7,7,52,,,,,,,,,96,1029,9,1,,,Wisconsin,College Stats
 4,119,MIA,A.J. Edds,LB,23,2014,0,0,0,0,,17,,,,,,,,,,,,4,,,Iowa,
-4,120,CIN,Geno Atkins,DT,22,2014,1,3,4,46,46,73,,,,,,,,,,,,109,,32.0,Georgia,College Stats
+4,120,CIN,Geno Atkins,DT,22,2014,1,3,4,46,46,73,,,,,,,,,,,,109,,32,Georgia,College Stats
 4,121,PHI,Keenan Clayton,LB,23,2012,0,0,0,3,2,36,,,,,,,,,,,,18,,,Oklahoma,College Stats
 4,122,PHI,Mike Kafka,QB,23,2014,0,0,0,0,0,4,11,16,107,0,2,3,0,0,,,,,,,Northwestern,College Stats
 4,123,NOR,Al Woods,DT,23,2014,0,0,0,6,,55,,,,,,,,,,,,35,,3.5,LSU,College Stats
-4,124,CAR,Eric Norwood,LB,22,2011,0,0,0,2,2,28,,,,,,,,,,,,6,,1.0,South Carolina,College Stats
+4,124,CAR,Eric Norwood,LB,22,2011,0,0,0,2,2,28,,,,,,,,,,,,6,,1,South Carolina,College Stats
 4,125,PHI,Clay Harbor,TE,23,2014,0,0,0,6,3,68,,,,,,,,,97,1002,7,5,,,SW Missouri St.,
 4,126,DAL,Akwasi Owusu-Ansah,DB,22,2013,0,0,0,1,0,15,,,,,,,,,,,,12,,,Indiana (PA),
 4,127,SEA,E.J. Wilson,DE,22,2011,0,0,0,0,0,2,,,,,,,,,,,,1,,,North Carolina,College Stats
@@ -141,7 +139,7 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 ,,,,,,,Misc,Misc,,Approx Val,Approx Val,,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,,,,,
 Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Tkl,Int,Sk,College/Univ,
 5,132,STL,Michael Hoomanawanui,TE,22,2014,0,0,2,3,1,59,,,,,,,,,40,518,4,,,,Illinois,College Stats
-5,133,SEA,Kam Chancellor,DB,22,2014,0,3,4,34,34,77,,,,,,,,,,,,312,8,2.0,Virginia Tech,College Stats
+5,133,SEA,Kam Chancellor,DB,22,2014,0,3,4,34,34,77,,,,,,,,,,,,312,8,2,Virginia Tech,College Stats
 5,134,PHI,Ricky Sapp,DE,23,2014,0,0,0,1,,17,,,,,,,,,,,,3,,,Clemson,College Stats
 5,135,ATL,Dominique Franks,DB,22,2014,0,0,0,6,5,52,,,,,,,,,,,,37,3,,Oklahoma,College Stats
 5,136,KAN,Kendrick Lewis,DB,22,2014,0,0,4,24,17,69,,,,,,,,,,,,194,9,,Mississippi,College Stats
@@ -153,7 +151,7 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 5,142,KAN,Cameron Sheffield,DE,22,2012,0,0,0,1,1,17,,,,,,,,,,,,5,,,Troy,College Stats
 5,143,JAX,Larry Hart,DE,23,2010,0,0,0,1,1,14,,,,,,,,,,,,5,,1.5,Central Arkansas,
 5,144,HOU,Sherrick McManis,DB,22,2014,0,0,0,4,2,62,,,,,,,,,,,,19,1,,Northwestern,College Stats
-5,145,MIA,Nolan Carroll,DB,23,2014,0,0,2,13,12,74,,,,,,,,,,,,139,5,3.0,Maryland,College Stats
+5,145,MIA,Nolan Carroll,DB,23,2014,0,0,2,13,12,74,,,,,,,,,,,,139,5,3,Maryland,College Stats
 5,146,SDG,Cam Thomas,DT,23,2014,0,0,1,14,10,70,,,,,,,,,,,,65,1,6.5,North Carolina,College Stats
 5,147,NYG,Mitch Petrus,G,23,2012,0,0,0,4,4,27,,,,,,,,,,,,,,,Arkansas,College Stats
 5,148,TEN,Robert Johnson,DB,23,2012,0,0,0,2,2,15,,,,,,,,,,,,13,1,,Utah,
@@ -161,11 +159,11 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 5,150,NWE,Zoltan Mesko,P,24,2013,0,0,0,6,6,56,,,,,,,,,,,,,,,Michigan,College Stats
 5,151,PIT,Chris Scott,G,23,2014,0,0,0,5,0,20,,,,,,,,,,,,,,,Tennessee,
 5,152,CIN,Otis Hudson,T,24,2012,0,0,0,0,0,0,,,,,,,,,,,,,,,East. Illinois,
-5,153,JAX,Austen Lane,DE,22,2014,0,0,1,7,7,30,,,,,,,,,,,,46,,3.0,Murray St.,
+5,153,JAX,Austen Lane,DE,22,2014,0,0,1,7,7,30,,,,,,,,,,,,46,,3,Murray St.,
 5,154,GNB,Andrew Quarless,TE,21,2014,0,0,2,9,9,55,,,,,,,,,85,909,6,4,,,Penn St.,College Stats
 5,155,ARI,John Skelton,QB,22,2013,0,0,0,4,4,20,320,602,3707,15,25,42,182,0,,,,1,,,Fordham,
 5,156,BAL,David Reed,WR,23,2013,0,0,0,2,2,36,,,,,,2,31,0,6,68,0,2,,,Utah,College Stats
-5,157,BAL,Arthur Jones,DE,24,2014,0,0,1,16,15,55,,,,,,,,,,,,88,,10.0,Syracuse,College Stats
+5,157,BAL,Arthur Jones,DE,24,2014,0,0,1,16,15,55,,,,,,,,,,,,88,,10,Syracuse,College Stats
 5,158,NOR,Matt Tennant,C,23,2012,0,0,0,1,0,36,,,,,,,,,,,,,,,Boston Col.,
 5,159,PHI,Riley Cooper,WR,23,2014,0,0,2,16,16,72,,,,,,0,18,0,148,2091,16,5,,,Florida,College Stats
 5,160,CLE,Larry Asante,DB,22,2014,0,0,0,1,,23,,,,,,,,,,,,30,1,,Nebraska,College Stats
@@ -185,21 +183,21 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 6,172,TAM,Brent Bowden,P,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia Tech,College Stats
 6,173,SFO,Anthony Dixon,RB,23,2014,0,0,0,6,4,80,,,,,,253,890,10,17,96,0,8,,,Mississippi St.,College Stats
 6,174,WAS,Dennis Morris,RB,,,0,0,0,,,,,,,,,,,,,,,,,,Louisiana Tech,College Stats
-6,175,CAR,Greg Hardy,DE,22,2014,0,1,3,27,27,63,,,,,,,,,,,,142,,34.0,Mississippi,College Stats
+6,175,CAR,Greg Hardy,DE,22,2014,0,1,3,27,27,63,,,,,,,,,,,,142,,34,Mississippi,College Stats
 6,176,TEN,Rusty Smith,QB,23,2013,0,0,0,1,1,3,23,45,234,0,4,,,,,,,,,,Florida Atlantic,College Stats
 6,177,CLE,Carlton Mitchell,WR,22,2011,0,0,0,0,0,17,,,,,,1,9,0,3,31,0,3,,,South Florida,College Stats
-6,178,BUF,Arthur Moats,LB,22,2014,0,0,2,13,9,75,,,,,,,,,,,,78,,9.0,James Madison,
+6,178,BUF,Arthur Moats,LB,22,2014,0,0,2,13,9,75,,,,,,,,,,,,78,,9,James Madison,
 6,179,DAL,Sam Young,T,23,2014,0,0,0,5,0,42,,,,,,,,,,,,,,,Notre Dame,
 6,180,JAX,Deji Karim,RB,23,2013,0,0,0,4,3,33,,,,,,110,341,0,18,129,0,1,,,Southern Illinois,
 6,181,CHI,Dan LeFevour,QB,23,2011,0,0,0,0,,0,,,,,,,,,,,,,,,Central Michigan,
 6,182,SFO,Nate Byham,TE,22,2013,0,0,0,0,0,29,,,,,,,,,11,83,1,2,,,Pittsburgh,College Stats
 6,183,DEN,Eric Olsen,C,22,2014,0,0,0,3,0,23,,,,,,,,,,,,,,,Notre Dame,College Stats
-6,184,NYG,Adrian Tracy,DE,23,2012,0,0,0,1,1,16,,,,,,,,,,,,5,,1.0,William &amp; Mary,
+6,184,NYG,Adrian Tracy,DE,23,2012,0,0,0,1,1,16,,,,,,,,,,,,5,,1,William &amp; Mary,
 6,185,SEA,Anthony McCoy,TE,22,2014,0,0,1,4,4,34,,,,,,,,,31,437,3,2,,,USC,College Stats
-6,186,CLE,Clifton Geathers,DE,22,2014,0,0,0,4,,40,,,,,,,,,,,,16,,1.0,South Carolina,
+6,186,CLE,Clifton Geathers,DE,22,2014,0,0,0,4,,40,,,,,,,,,,,,16,,1,South Carolina,
 6,187,HOU,Shelley Smith,G,23,2014,0,0,0,8,0,40,,,,,,,,,,,,,,,Colorado St.,
 6,188,PIT,Jonathan Dwyer,RB,21,2014,0,0,0,8,8,38,,,,,,246,1022,3,29,184,0,,,,Georgia Tech,College Stats
-6,189,STL,Eugene Sims,DE,24,2014,0,0,0,8,8,70,,,,,,,,,,,,70,1,8.0,West Texas A&amp;M,
+6,189,STL,Eugene Sims,DE,24,2014,0,0,0,8,8,70,,,,,,,,,,,,70,1,8,West Texas A&amp;M,
 6,190,OAK,Travis Goethel,LB,23,2012,0,0,0,1,1,16,,,,,,,,,,,,5,,,Arizona St.,College Stats
 6,191,CIN,Dezmon Briscoe,WR,21,2013,0,0,0,4,,25,,,,,,1,1,0,43,502,7,3,,,Kansas,College Stats
 6,192,BUF,Danny Batten,DE,22,2011,0,0,0,2,2,16,,,,,,,,,,,,11,,0.5,South Dakota St.,
@@ -212,7 +210,7 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 6,199,MIN,Joe Webb,WR,23,2014,0,0,0,4,4,40,88,152,853,3,5,41,273,4,7,58,0,4,,,Ala-Birmingham,College Stats
 6,200,PHI,Charles Scott,RB,,,0,0,0,,,,,,,,,,,,,,,,,,LSU,College Stats
 6,201,ARI,Jorrick Calvin,DB,23,2010,0,0,0,1,,12,,,,,,,,,,,,,,,Troy,College Stats
-6,202,CAR,Jordan Pugh,DB,22,2013,0,0,0,4,3,44,,,,,,,,,,,,34,2,1.0,Texas A&amp;M,College Stats
+6,202,CAR,Jordan Pugh,DB,22,2013,0,0,0,4,3,44,,,,,,,,,,,,34,2,1,Texas A&amp;M,College Stats
 6,203,JAX,Scotty McGee,DB,,,0,0,0,,,,,,,,,,,,,,,,,,James Madison,
 6,204,CAR,Tony Pike,QB,24,2010,0,0,0,0,0,1,6,12,47,0,0,,,,,,,,,,Cincinnati,College Stats
 6,205,NWE,Ted Larsen,C,23,2014,0,0,3,22,,76,,,,,,,,,,,,2,,,North Carolina St.,
@@ -225,20 +223,20 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 7,210,TAM,Cody Grimm,DB,23,2012,0,0,0,6,6,23,,,,,,,,,,,,47,2,,Virginia Tech,College Stats
 7,211,STL,Marquis Johnson,DB,22,2011,0,0,0,0,0,5,,,,,,,,,,,,5,,,Alabama,College Stats
 7,212,MIA,Chris McCoy,DE,,,0,0,0,,,,,,,,,,,,,,,,,,Middle Tenn. St.,
-7,213,DET,Willie Young,DE,25,2014,0,0,1,13,9,63,,,,,,,,,,,,74,,16.0,North Carolina St.,
+7,213,DET,Willie Young,DE,25,2014,0,0,1,13,9,63,,,,,,,,,,,,74,,16,North Carolina St.,
 7,214,MIN,Mickey Shuler,TE,23,2014,0,0,0,0,0,9,,,,,,,,,2,44,0,1,,,Penn St.,College Stats
 7,215,OAK,Jeremy Ware,DB,24,2010,0,0,0,1,1,8,,,,,,,,,,,,1,1,,Michigan St.,College Stats
 7,216,BUF,Kyle Calloway,T,,,0,0,0,,,,,,,,,,,,,,,,,,Iowa,College Stats
-7,217,TAM,Dekoda Watson,LB,22,2014,0,0,0,9,8,70,,,,,,,,,,,,75,1,3.0,Florida St.,College Stats
+7,217,TAM,Dekoda Watson,LB,22,2014,0,0,0,9,8,70,,,,,,,,,,,,75,1,3,Florida St.,College Stats
 7,218,CHI,J'Marcus Webb,T,22,2014,0,0,2,19,18,55,,,,,,,,,,,,1,,,West Texas A&amp;M,
 7,219,WAS,Terrence Austin,WR,22,2011,0,0,0,1,1,18,,,,,,,,,15,184,0,2,,,UCLA,College Stats
-7,220,PHI,Jamar Chaney,LB,23,2014,0,0,0,13,12,54,,,,,,,,,,,,114,3,1.0,Mississippi St.,College Stats
+7,220,PHI,Jamar Chaney,LB,23,2014,0,0,0,13,12,54,,,,,,,,,,,,114,3,1,Mississippi St.,College Stats
 7,221,NYG,Matt Dodge,P,23,2010,0,0,0,2,2,16,,,,,,1,0,0,,,,,,,East Carolina,College Stats
 7,222,TEN,Marc Mariani,WR,23,2014,0,1,0,3,3,38,,,,,,1,4,0,5,24,0,,,,Montana,
 7,223,CAR,R.J. Stanford,DB,22,2014,0,0,0,4,1,47,,,,,,,,,,,,39,2,,Utah,
 7,224,SFO,Phillip Adams,DB,22,2014,0,0,0,8,1,65,,,,,,,,,,,,68,4,,South Carolina St.,
 7,225,DEN,Syd'Quan Thompson,DB,23,2011,0,0,0,1,1,13,,,,,,,,,,,,12,2,,California,College Stats
-7,226,STL,George Selvie,DE,23,2014,0,0,2,15,2,68,,,,,,,,,,,,90,,13.0,South Florida,College Stats
+7,226,STL,George Selvie,DE,23,2014,0,0,2,15,2,68,,,,,,,,,,,,90,,13,South Florida,College Stats
 7,227,HOU,Dorin Dickerson,WR,22,2013,0,0,0,1,0,24,,,,,,1,-8,0,11,151,0,,,,Pittsburgh,
 7,228,CIN,Reggie Stephens,C,23,2013,0,0,0,0,,0,,,,,,,,,,,,,,,Iowa St.,
 7,229,WAS,Eric Cook,C,,,0,0,0,,,,,,,,,,,,,,,,,,New Mexico,
@@ -248,11 +246,11 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 7,233,ARI,Jim Dray,TE,23,2014,0,0,1,4,2,71,,,,,,,,,50,544,3,1,,,Stanford,College Stats
 7,234,DAL,Sean Lissemore,DT,23,2014,0,0,0,11,5,59,,,,,,,,,,,,70,1,6.5,William &amp; Mary,
 7,235,SDG,Dedrick Epps,TE,22,2012,0,0,0,0,,6,,,,,,,,,1,9,0,,,,Miami (FL),College Stats
-7,236,SEA,Dexter Davis,LB,23,2012,0,0,0,1,1,16,,,,,,,,,,,,10,,1.0,Arizona St.,College Stats
+7,236,SEA,Dexter Davis,LB,23,2012,0,0,0,1,1,16,,,,,,,,,,,,10,,1,Arizona St.,College Stats
 7,237,MIN,Ryan D'Imperio,RB,23,2011,0,0,0,0,0,12,,,,,,,,,2,7,0,,,,Rutgers,
-7,238,IND,Ricardo Mathews,DT,23,2014,0,0,0,8,6,64,,,,,,,,,,,,45,,3.0,Cincinnati,College Stats
+7,238,IND,Ricardo Mathews,DT,23,2014,0,0,0,8,6,64,,,,,,,,,,,,45,,3,Cincinnati,College Stats
 7,239,NOR,Sean Canfield,QB,24,,0,0,0,,,,,,,,,,,,,,,,,,Oregon St.,
-7,240,IND,Kavell Conner,LB,23,2014,0,0,3,19,15,68,,,,,,,,,,,,185,,2.0,Clemson,College Stats
+7,240,IND,Kavell Conner,LB,23,2014,0,0,3,19,15,68,,,,,,,,,,,,185,,2,Clemson,College Stats
 7,241,TEN,David Howard,DT,,,0,0,0,,,,,,,,,,,,,,,,,,Brown,
 7,242,PIT,Doug Worthington,DT,23,2014,0,0,0,0,,6,,,,,,,,,,,,2,,,Ohio St.,
 7,243,PHI,Jeff Owens,DT,23,2010,0,0,0,0,0,1,,,,,,,,,,,,,,,Georgia,College Stats
@@ -261,9 +259,9 @@ Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec
 7,246,IND,Ray Fisher,DB,,,0,0,0,,,,,,,,,,,,,,,,,,Indiana,College Stats
 7,247,NWE,Brandon Deaderick,DE,23,2014,0,0,0,8,7,60,,,,,,,,,,,,43,,5.5,Alabama,College Stats
 7,248,NWE,Kade Weston,DT,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
-7,249,CAR,Robert McClain,DB,22,2014,0,0,0,9,1,63,,,,,,,,,,,,158,3,2.0,Connecticut,College Stats
+7,249,CAR,Robert McClain,DB,22,2014,0,0,0,9,1,63,,,,,,,,,,,,158,3,2,Connecticut,College Stats
 7,250,NWE,Zac Robinson,QB,24,2013,0,0,0,0,,0,,,,,,,,,,,,,,,Oklahoma St.,
-7,251,OAK,Stevie Brown,DB,23,2014,0,0,1,10,1,55,,,,,,,,,,,,98,8,1.0,Michigan,College Stats
+7,251,OAK,Stevie Brown,DB,23,2014,0,0,1,10,1,55,,,,,,,,,,,,98,8,1,Michigan,College Stats
 7,252,MIA,Austin Spitler,LB,23,2013,0,0,0,4,4,55,,,,,,,,,,,,11,,,Ohio St.,College Stats
 7,253,TAM,Erik Lorig,DE,23,2014,0,0,0,1,1,66,,,,,,3,4,0,39,220,2,3,,,Stanford,College Stats
 7,254,STL,Josh Hull,LB,23,2013,0,0,0,3,2,39,,,,,,,,,,,,11,,,Penn St.,College Stats
