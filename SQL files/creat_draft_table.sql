@@ -14,3 +14,14 @@ PRIMARY KEY (pkid)
 ALTER TABLE drafts
 	ADD CONSTRAINT drafts_player_id_fkey
 		FOREIGN KEY (player_id) REFERENCES player (player_id);
+		
+ALTER TABLE drafts
+   ADD COLUMN team_id character varying(3) NOT NULL;
+   
+ ALTER TABLE drafts
+  ADD CONSTRAINT drafts_team_id_fkey FOREIGN KEY (team_id)
+      REFERENCES team (team_id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION;
+
+ALTER TABLE drafts
+  ADD CONSTRAINT unique_draft_result UNIQUE(player_id);
