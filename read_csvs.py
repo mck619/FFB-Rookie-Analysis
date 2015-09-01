@@ -6,15 +6,14 @@ This is a script to read in the csvs from www.pro-football-reference.com so I ca
 import csv
 import os
 import psycopg2
-from psycopg2 import errorcodes
 
 
-row_tester = {str(x) for x in range(1,8)}
+
 
 
 def read_rookie_by_year(csvfile, year):
 
-
+    row_tester = {str(x) for x in range(1,8)}
     f = open('database_password.txt','r')
     pw = f.readlines()[0]
     f.close()
