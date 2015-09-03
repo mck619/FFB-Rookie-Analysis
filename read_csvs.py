@@ -52,8 +52,11 @@ def read_rookie_by_year(csvfile, year):
                 team = row[2]
             name = row[3]
             print (name)
+            split_name = name.split()
+            gsis_name = split_name[0][0]+'.'+split_name[1]
             cur.execute('SELECT player_id FROM player WHERE full_name = %s;', (name,))
             player_id = cur.fetchall()
+            print(player_id)
             while player_id == []:
                 print(row)
                 print('Player name from row above does not match nfldb, lets try and find him.')
@@ -62,6 +65,7 @@ def read_rookie_by_year(csvfile, year):
                 print('searching for players with gsis_name: '+gsis_name+'.')
                 cur.execute('SELECT player_id FROM player WHERE gsis_name = %s;',(gsis_name,))
                 player_id = cur.fetchall()
+                print(player_id)
 
                 while player_id ==[]:
                     z = raw_input('Couldn''t find any players with that name,'
@@ -72,6 +76,14 @@ def read_rookie_by_year(csvfile, year):
                         player_id = cur.fetchall()
                     else:
                         print("okay, fix it yourself")
+                        print("here is a start")
+                        print('INSERT INTO player('
+                              'player_id, gsis_name, full_name, first_name, last_name, team,'
+                              '"position", profile_id, profile_url,birthdate,'
+                              'college, height, weight, years_pro, status)'
+                              'VALUES'
+                              '(\'NS-00000XX\',\''+gsis_name+'\',\''+name+'\',\''+split_name[0]+'\',\''+split_name[1]+'\',\'team\','
+                              '\''+row[4]+'\',profile_id,\'profile_url\',\'birthdate\',\''+row[27]+'\',height,weight,years_pro,\'Unknown\'')
                         cur.close()
                         conn.close()
                         c.close()
@@ -98,15 +110,16 @@ def read_rookie_by_year(csvfile, year):
 
             if len(player_id)>1:
                 try:
-                    for player in player_id:
+                    '''for player in player_id:
                         cur.execute('INSERT INTO drafts (player_id, draft_year, draft_round, overall_pick, team_id) VALUES'
                             '(%s,%s,%s,%s,%s);',
-                            (player, year, row[0], row[1],team))
+                            (player, year, row[0], row[1],team))'''
                     print("Multiple players have this name. Lets try and figure it out.")
-                    conn.rollback()
+                    '''conn.rollback()'''
                     fixed = False
-                    cur.execute('SELECT * FROM player WHERE full_name = %s;',(name,))
+                    cur.execute('SELECT * FROM player WHERE gsis_name = %s OR full_name = %s;',(gsis_name,name))
                     dpn = cur.fetchall()
+
                     for item in dpn:
                         print(item)
                         x = raw_input("Does this look like the correct player for draft year: "
@@ -120,8 +133,16 @@ def read_rookie_by_year(csvfile, year):
                             print("trying next name..")
 
                     if fixed == False:
-                        print("couldn''t find a good match player , please fix manually for:")
+                        print("couldn't find a good match player , please fix manually for:")
                         print(row)
+                        print("here is a start")
+                        print('INSERT INTO player('
+                              'player_id, gsis_name, full_name, first_name, last_name, team,'
+                              '"position", profile_id, profile_url,birthdate,'
+                              'college, height, weight, years_pro, status)'
+                              'VALUES'
+                              '(NS-00000XX,'+gsis_name+','+name+','+split_name[0]+','+split_name[1]+',team,'
+                              +row[4]+',profile_id,profile_url,birthdate,'+row[27]+',height,weight,years_pro,status')
                         cur.close()
                         conn.close()
                         c.close()
